@@ -57,6 +57,9 @@ header, footer{
 }
 
 /* Issue with "box-flex" on Inspect element within webpage. */
+/* [article{ box-flex] was previous syntax, removed. */
+/* Fixed redundancies with code syntax. */
+
 article{
   -webkit-flex: 5;
   -moz-flex: 5;

@@ -104,7 +104,7 @@ aside, nav{
   box-flex:1;
 
   -webkit-flex: 1;
-  -mox-flex: 1;
+  -moz-flex: 1;
   -ms-flex: 1;
   flex: 1;
 }

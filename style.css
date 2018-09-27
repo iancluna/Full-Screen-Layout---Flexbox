@@ -14,9 +14,12 @@ html, body, .viewport{
   margin:0;
 }
 
+
+/* Firefox not taking "-moz-flex" */
 .vbox{
   display: -webkit-flex;
   display: -moz-flex;
+  display: -moz-box-flex;
   display: -ms-flex;
   display: flex;
 
